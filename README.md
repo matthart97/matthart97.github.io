@@ -4,4 +4,4 @@ Knowledge Engineering | Aritficial Intelligence | Chemistry and Physcial Science
 
 # About Me 
 
-![](assets/prof_pic-480.jpg)
+![](assets/prof_pic-480.webp)
