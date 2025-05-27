@@ -1,6 +1,6 @@
 # Dr. Matthew Hart
 
-Knowledge Engineering | Aritficial Intelligence | Chemistry and Physcial Sciences
+| [CV](cv/CV.md) | LinkedIn | Google Scholar | Blog | Projects |
 
 # About Me 
 
