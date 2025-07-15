@@ -1,18 +1,20 @@
 title: "Dr. Matthew Hart"
+description: "AI and Chemistry Researcher"
+
 plugins:
   - jekyll-relative-links
+
 relative_links:
   enabled: true
   collections: true
+
 include:
   - CONTRIBUTING.md
   - README.md
   - LICENSE.md
   - COPYING.md
   - CODE_OF_CONDUCT.md
-  - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
 
-#theme: jekyll-theme-tactile
-remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: "chesterhow/tale"
