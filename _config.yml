@@ -1,4 +1,5 @@
 title: "Dr. Matthew Hart"
+description: "AI for Science Researcher"
 plugins:
   - jekyll-relative-links
 relative_links:
