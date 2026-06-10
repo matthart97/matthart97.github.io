@@ -1,5 +1,5 @@
 title: "Matthew Hart"
-description: "Welcome to my website"
+description: "Welcome to my website!"
 plugins:
   - jekyll-relative-links
 relative_links:

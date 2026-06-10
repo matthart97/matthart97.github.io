@@ -4,16 +4,7 @@
   <p style="color: white; text-shadow: 1px 1px 3px rgba(0,0,0,0.8); font-size: 1.2em; margin: 0;">AI for Science Researcher</p>
 </div>
 
-<div style="text-align: center; margin-bottom: 30px; font-size: 1.1em;">
-  <a href="CV.md">CV</a> &nbsp;|&nbsp; 
-  <a href="https://www.linkedin.com/in/hart-et-al/">LinkedIn</a> &nbsp;|&nbsp; 
-  <a href="https://scholar.google.com/citations?user=UP0l5jIAAAAJ&hl=en">Google Scholar</a> &nbsp;|&nbsp; 
-  Blog &nbsp;|&nbsp; 
-  Projects &nbsp;|&nbsp; 
-  <a href="https://github.com/matthart97">Github</a> &nbsp;|&nbsp; 
-  Consulting &nbsp;|&nbsp; 
-  <a href="contact.md">Contact</a>
-</div>
+[Resume](cv/MatthewHartResume.pdf) | [LinkedIn](https://www.linkedin.com/in/hart-et-al/) | [Google Scholar](https://scholar.google.com/citations?user=UP0l5jIAAAAJ&hl=en) | [Github](https://github.com/matthart97) | [Contact](contact.md) | [Photography](photography/photolanding.md)
 
 # About Me
 
