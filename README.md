@@ -10,8 +10,16 @@
 
 I'm Matt, and I work with artificial intelligence and [knowledge engineering](https://en.wikipedia.org/wiki/Knowledge_engineering) to tackle real-world problems in chemistry and physics.
 
-I'm passionate about connecting people with technical solutions that can accelerate the development of new sceince and products. 
-
-If you want to read my thoughts on a few various subjects, see my [blog](blog/Landing.md). 
+I'm passionate about connecting people with technical solutions that can accelerate the development of new science and products. 
 
 I also like to take pictures, check out some of my photography [projects](projects/Landing.md).
+
+# Currently
+
+I'm a postdoctoral researcher at EPFL in the [Schwaller Group](https://schwallergroup.github.io/) where I am investigating the applications of machine learning and AI to the design of metal organic frameworks for direact air capture (carbon capture) technologies. More specifically, I use both open source and proprietary LLMs to research and compile MOF knowledge into searchable databases, and build generative models (flow matching, diffusion) to create new and interesting chemcical structures.  
+
+# Education
+
+BA Physics 2019, North Carolina State University, Raleigh NC, USA
+
+PhD Materials Science 2025, University of North Carolina at Chapel Hill, Chapel Hill NC, USA
