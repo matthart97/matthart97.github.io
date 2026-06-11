@@ -16,7 +16,9 @@ I also like to take pictures, check out some of my photography [projects](projec
 
 # Currently
 
-I'm a postdoctoral researcher at EPFL in the [Schwaller Group](https://schwallergroup.github.io/) where I am investigating the applications of machine learning and AI to the design of metal organic frameworks for direact air capture (carbon capture) technologies. More specifically, I use both open source and proprietary LLMs to research and compile MOF knowledge into searchable databases, and build generative models (flow matching, diffusion) to create new and interesting chemical structures.  
+I'm a postdoctoral researcher at EPFL in the [Schwaller Group](https://schwallergroup.github.io/) where I am investigating the applications of machine learning and AI to the design of metal organic frameworks (MOFs) for direct air capture (carbon capture) technologies. More specifically, I use both open source and proprietary LLMs to research and compile MOF knowledge into searchable databases, and build generative models (flow matching, diffusion) to create new and interesting chemical structures.  
+
+If you want to see my publications, check out my [Google Scholar](https://scholar.google.com/citations?user=UP0l5jIAAAAJ&hl=en).
 
 # Education
 
