@@ -12,7 +12,7 @@ I'm Matt, and I work with artificial intelligence and [knowledge engineering](ht
 
 I'm passionate about connecting people with technical solutions that can accelerate the development of new science and products. 
 
-I also like to take pictures, check out some of my photograp[photograpy](photograpy/photolanding.md).
+I also like to take pictures, check out some of my [photograpy](photography/photolanding.md).
 
 # Currently
 
